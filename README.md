@@ -17,8 +17,8 @@ In class we were tasked with making a webpage for our pets as a bit of extra pra
 ## Setup/Installation Requirements
 
 * Clone this repository to your desktop.
-* Locate the nannah.html file.
-* Open the resume.html file to view the webpage!
+* Locate the index.html file.
+* Open the index.html file to view the webpage!
 * Or simply visit the GitHub Pages website [HERE](https://jacobtstrong.github.io/nannah/)!
 
 ## Known Bugs
