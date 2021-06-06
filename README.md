@@ -9,6 +9,7 @@
 * HTML
 * CSS
 * GitHub Pages
+* Markdown
 
 ## About
 
